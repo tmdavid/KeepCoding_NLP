@@ -24,7 +24,8 @@
 5. [Day 5](revisited_problems)
     * Text Classification. CNN.
     * Language Modeling. RNNs.
-6. [Day 6](Advanced NLP)
+6. [Day 6](day_6)
+    * ## Advanced NLP
     * Sequence 2 Sequence. Chatbots
     * Natural Language Inferece. Understanding close meanings.
 
