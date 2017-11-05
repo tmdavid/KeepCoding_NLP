@@ -1,3 +1,3 @@
 # KeepCoding_NLP
 
-[Day 1](../Basics)
+[Day 1](Basics)
