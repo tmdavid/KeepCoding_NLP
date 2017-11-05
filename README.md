@@ -1,8 +1,9 @@
 # KeepCoding NLP Resources
 
-### Table of contents
+### Table of contents 
 
 1. [Day 1](Basics)
+  * Regular Expressions, tokens, basic units.
 2. [Day 2](common_problems)
 3. [Day 3](unsupervised_learning)
 4. [Day 4](embeddings)
