@@ -3,7 +3,7 @@
 ### Table of contents 
 
 1. [Day 1](Basics)
-    * Regular Expressions, tokens, basic units. Intro to formal grammars.
+    * Regular Expressions, tokens, basic units. Distancia de edición
     * BoW. N-Grams. Smoothing. 
     * Common Features for text. PoS Tags. 
     * Tf-idf
